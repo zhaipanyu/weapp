@@ -2,7 +2,7 @@
 # weapp
 # gif预览
 ![img](https://zhaipanyu.github.io/weapp/1.png)
-![img](https://zhaipanyu.github.io/weapp//1.gif)
+![img](https://zhaipanyu.github.io/weapp/1.gif)
 
 
 
