@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/goods/goods",
+    "pages/goods/login/login",
+    "pages/goods/list/list",
+    "pages/goods/addAddress/addAddress",
+    "pages/goods/pay/pay",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundColor": "#f2f2f2",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#787878",
+    "navigationBarTextStyle": "white"
+  }
+}

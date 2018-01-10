@@ -1,0 +1,9 @@
+<view>
+    <view class="addAddress" bindtap="goCreateAdd">
+        <view class="addAddress-text">新建地址</view>
+        <image class="addAddress-img" src="../../../resources/kind/view.png"></image>
+    </view>
+    <view>
+        列表
+    </view>
+</view>

@@ -1,0 +1,64 @@
+.addAddress {
+    padding: 30rpx;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.addAddress-text {
+    flex: 1;
+}
+
+.addAddress-img {
+    width: 60rpx;
+    height: 60rpx;
+}
+.list-title{
+    font-size: 14px;
+    color: rgb(121, 118, 118);
+}
+.list-box{
+    background-color: #fff;
+    padding: 20rpx;
+    line-height: 40px;
+}
+/* .list-box view{
+
+} */
+/* 重新下单 */
+.afresh-list{
+    display:block;
+    background-color:#69C3AA;
+    color:#FFF;
+    border-radius:3px;
+    width:50%;
+    text-align:center;
+    margin:20px auto;
+    padding:10px;
+}
+.submit-wrap{
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    z-index:50;
+    width:100%;
+    height:48px;
+    background:#141d27;
+}
+.content {
+    display:flex;
+}
+
+.content-right{
+    /* flex:0 0 105px; */
+    width:105px;
+    text-align: center;
+    line-height: 100rpx;
+}
+.submit-btn{
+    background:#00b43c;
+    color:#fff;
+    height: 100rpx;
+}
+

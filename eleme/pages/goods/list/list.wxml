@@ -1,0 +1,42 @@
+<view>
+    <view class="addAddress" bindtap="goCreateAdd">
+        <view class="addAddress-text">新建地址 +</view>
+        <navigator class="navigator" url="{{url}}">
+            <view class="navigator-text">></view>
+            <!-- <view class="navigator-arrow"></view> -->
+        </navigator>
+        <!-- <img class="addAddress-img" src="../../../resources/kind/view.png"> -->
+    </view>
+    <!-- 列表  -->
+    <view class="list-title">您的订单列表</view>
+    <view class="list-box">
+        <view>鸡蛋</view>
+        <view>包子</view>
+    </view>
+    <!-- <navigator url="{{url}}"> -->
+    <navigator url="../goods" open-type="navigateBack" hover-class="navigator-hover">
+        <view class="afresh-list" >
+            重新点单
+        </view>
+    </navigator>
+    <!-- <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}" disabled="{{disabled}}" bindtap="primary">
+    重新点单
+    </button> -->
+    <!-- <view class="submit-wrap">
+        <view class="content">
+            <view class="content-right">
+                <view class="submit-btn" bindtap="goListView">结算
+                </view>
+            </view>
+        </view>
+    </view> -->
+
+    <!-- 新建地址 -->
+    <!-- <view>
+        <view>
+        label联系人
+            
+        </view>
+    </view> -->
+
+</view>
